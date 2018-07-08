@@ -1,1 +1,1 @@
-web: java -jar target/dependency/webapp-runner.jar --port $PORT foodKart-0.0.1-SNAPSHOT.war
+web: java $JAVA_OPTS -cp webapp-runner.jar:libs/* webapp.runner.launch.Main --enable-naming --port $PORT target/foodKart-0.0.1-SNAPSHOT.war
