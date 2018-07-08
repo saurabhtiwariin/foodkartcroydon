@@ -1,1 +1,1 @@
-heroku deploy:war --war target\foodKart-0.0.1-SNAPSHOT.war --app foodkartcroydon --webapp-runner 8.5.23.0 --buildpacks "heroku/jvm,heroku/metrics"
+web java $JAVA_OPTS -jar webapp-runner.jar ${WEBAPP_RUNNER_OPTS:-"--expand-war"} --port $PORT ./foodKart-0.0.1-SNAPSHOT.war
