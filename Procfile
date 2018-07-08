@@ -1,1 +1,1 @@
-web java $JAVA_OPTS -jar webapp-runner.jar ${WEBAPP_RUNNER_OPTS:-"--expand-war"} --port $PORT ./foodKart-0.0.1-SNAPSHOT.war
+web: java $JAVA_OPTS -jar target/dependency/jetty-runner.jar --port $PORT target/*.war
