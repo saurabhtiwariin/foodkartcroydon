@@ -11,7 +11,7 @@
 						<div class="main_slider_content wow zoomIn" data-wow-duration="1s">
 							<h1>Food Kart Croydon</h1>
 							<p>Special Indian food for friends away from home</p>
-							<button href="" class="btn-lg">Click here</button>
+							<button href='<spring:url value="/fkmenu.html"/>' class="btn-lg">Menu</button>
 						</div>
 					</div>
 				</div>
