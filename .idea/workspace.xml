@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16b04950-83dc-452c-9fec-be1ca566e4d7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagrams/mlm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagrams/mlm_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/diagrams/mlm_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/annotation/UniqueUsernameValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/annotation/UniqueUsernameValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/BankDetailsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/BankDetailsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/CommitmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/CommitmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/ComplaintController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/ComplaintController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/HyperlinkControllerAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/HyperlinkControllerAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/HyperlinkControllerBoth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/HyperlinkControllerUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/HyperlinkControllerUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/MemberZoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/MemberZoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/PasswordResetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/PasswordResetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/TransactionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/TransactionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/WithdrawlController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/controller/WithdrawlController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/Accept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/BankDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/Commit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/Complaint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/FileUpload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/OTP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/PasswordResetToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/SecurityQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/entity/VerificationToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/event/OnComplaintCompleteEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/event/OnComplaintCompleteEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/event/OnRegistrationCompleteEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/event/OnRegistrationCompleteEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/event/listener/ComplaintListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/event/listener/ComplaintListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/event/listener/RegistrationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/event/listener/RegistrationListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/AcceptRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdAccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/CommitRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdAddressRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/OTPRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdOtpRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PasswordResetTokenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PDPasswordResetTokenRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdAccountcontactRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdContactRoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdContactaddressRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdRoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/SecurityQuestionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdtlSecurityquestionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/StatusRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdtlStatusRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/TransactionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdDbmrRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdContactRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/VerificationTokenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/repository/PdVerificationtokenRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/scheduling/AnotherBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/scheduling/AnotherBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/scheduling/MyBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/scheduling/MyBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/scheduling/quartz/ScheduledJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/scheduling/quartz/ScheduledJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/AcceptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/AcceptService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/BankDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/BankDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/CommitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/CommitService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/ComplaintService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/ComplaintService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/FileUploadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/FileUploadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/InitDbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/InitDbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/OTPService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/OTPService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/PasswordResetTokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/PasswordResetTokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/SecurityQuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/SecurityQuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/SmsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/SmsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/StatusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/StatusService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/TransactionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/TransactionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/VerificationTokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/service/VerificationTokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/util/UpdateProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/jiripinkas/jba/util/UpdateProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/cron.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cron.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/messages_en_US.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages_en_US.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/defs/general.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/defs/general.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/accept.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/accept.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/commit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/commit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/ext/forgetPassword.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/ext/forgetPassword.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/ganealogy.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/ganealogy.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/ganealogy2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/ganealogy2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userRegister.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userRegister.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/layout/classic.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/layout/classic.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jhipster/pdeliver2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16b04950-83dc-452c-9fec-be1ca566e4d7" name="Default" comment="" />
+      <created>1508694429137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508694429137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mlm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
