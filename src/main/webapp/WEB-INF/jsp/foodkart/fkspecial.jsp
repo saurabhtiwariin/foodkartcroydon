@@ -14,11 +14,11 @@
 					</div>
 
 					<div class="main_portfolio_content">
-						<div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
+						<div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text" >
 							<img src="/resources/foodkart/assets/images/alloparatha.jpg" alt="" />
-							<div class="portfolio_images_overlay text-center">
+							<div class="portfolio_images_overlay text-center" >
 								<h6>Allo Paratha</h6>
-								<p class="product_price">$1 / per piece</p>
+								<h6 class="product_price">$1</h6>
 							<!-- 	<a href="" class="btn btn-primary">Add to cart</a>
 							 --></div>
 						</div>
@@ -26,7 +26,7 @@
 							<img src="/resources/foodkart/assets/images/allobhujiya.jpg" alt="" />
 							<div class="portfolio_images_overlay text-center">
 								<h6>Allo Bhujiya</h6>
-								<p class="product_price">$2</p>
+								<h6 class="product_price">$2</h6>
 						<!-- 		<a href="" class="btn btn-primary">Add to cart</a>
 						 -->	</div>
 						</div>
@@ -34,7 +34,7 @@
 							<img src="/resources/foodkart/assets/images/mushroommasala.jpg" alt="" />
 							<div class="portfolio_images_overlay text-center">
 								<h6>Mushroom Masala</h6>
-								<p class="product_price">$2</p>
+								<h6 class="product_price">$2</h6>
 						<!-- 		<a href="" class="btn btn-primary">Add to cart</a>
 						 -->	</div>
 						</div>
@@ -42,7 +42,7 @@
 							<img src="/resources/foodkart/assets/images/phulka.jpg" alt="" />
 							<div class="portfolio_images_overlay text-center">
 								<h6>Chapati / Phulka</h6>
-								<p class="product_price">$1 / 4 piece</p>
+								<h6 class="product_price">$1 for 4</h6>
 						<!-- 		<a href="" class="btn btn-primary">Add to cart</a>
 						 -->	</div>
 						</div>
@@ -50,7 +50,7 @@
 							<img src="/resources/foodkart/assets/images/eggcurry.jpg" alt="" />
 							<div class="portfolio_images_overlay text-center">
 								<h6>Egg Curry</h6>
-								<p class="product_price">$2</p>
+								<h6 class="product_price">$2</h6>
 						<!-- 		<a href="" class="btn btn-primary">Add to cart</a>
 						 -->	</div>
 						</div>
@@ -58,7 +58,7 @@
 							<img src="/resources/foodkart/assets/images/paratharoti.jpg" alt="" />
 							<div class="portfolio_images_overlay text-center">
 								<h6>Paratha Roti</h6>
-								<p class="product_price">$1 / 3 piece</p>
+								<h6 class="product_price">$1 for 3</h6>
 						<!-- 		<a href="" class="btn btn-primary">Add to cart</a>
 						 -->	</div>
 						</div>
@@ -66,7 +66,7 @@
 							<img src="/resources/foodkart/assets/images/potatotomatocurry.JPG" alt="" />
 							<div class="portfolio_images_overlay text-center">
 								<h6>Potato Tomato Curry</h6>
-								<p class="product_price">$2</p>
+								<h6 class="product_price">$2</h6>
 						<!-- 		<a href="" class="btn btn-primary">Add to cart</a>
 						 -->	</div>
 						</div>
@@ -74,7 +74,7 @@
 							<img src="/resources/foodkart/assets/images/poori.jpg" alt="" />
 							<div class="portfolio_images_overlay text-center">
 								<h6>Poori</h6>
-								<p class="product_price">$1 / 3 pieces</p>
+								<h6 class="product_price">$1 for 3</h6>
 						<!-- 		<a href="" class="btn btn-primary">Add to cart</a>
 						 -->	</div>
 						</div>
