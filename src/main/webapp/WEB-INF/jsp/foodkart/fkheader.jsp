@@ -14,7 +14,7 @@
 			<div class="row">
 				<div class="col-md-5 col-md-offset-3 col-sm-12 text-right">
 					<div class="call_us_text">
-						<a href=""><i class="fa fa-clock-o"></i> Order Foods 24/7</a> <a
+						<a href=""><i class="fa fa-clock-o"></i> Call or Order on WhatsApp</a> <a
 							href=""><i class="fa fa-phone"></i>07440768025</a>
 					</div>
 				</div>
@@ -70,7 +70,7 @@
 								<li><a href='<spring:url value="/fkspecial.html"/>'>Special</a></li>
 								<li><a href='<spring:url value="/fkmenu.html"/>'>Menu</a></li>
 								
-								<li><a href='<spring:url value="/fktakeawaypoint.html"/>'>Take Away Point</a></li>
+								<li><a href='<spring:url value="/fktakeawaypoint.html"/>'>Take Away Point / Order Timings</a></li>
 								<li><a href='<spring:url value="/fkcomingsoon.html"/>'>ComingSoon</a></li>
 								<li><a href="#" class="booking">ViewCart</a></li>
 								<security:authorize access="isAuthenticated()">
