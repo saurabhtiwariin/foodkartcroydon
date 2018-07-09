@@ -21,7 +21,7 @@
 
 							<ul>
 								<li>Phulka
-									Chapati(4)<span style="float: right;">£1</span>
+									Chapati(3)<span style="float: right;">£1</span>
 								</li>
 								
 								<li>North Indian
@@ -47,18 +47,18 @@
 							</div>
 
 							<ul>
-								<li>Allo Bhujiya<span style="float: right;">£2</span>
+								<li>Allo Bhujiya<span style="float: right;">£2.5</span>
 								</li>
 								
-								<li>Mushroom Masala<span style="float: right;">£2</span>
-								</li>
-								
-								
-								<li>Bhindi Dry<span style="float: right;">£2</span>
+								<li>Mushroom Masala<span style="float: right;">£3.5</span>
 								</li>
 								
 								
-								<li>Egg Curry<span style="float: right;">£2</span>
+								<li>Bhindi Dry<span style="float: right;">£3.5</span>
+								</li>
+								
+								
+								<li>Egg Curry<span style="float: right;">£3</span>
 								</li>
 								
 							</ul>
